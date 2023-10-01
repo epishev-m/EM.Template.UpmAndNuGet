@@ -1,0 +1,10 @@
+{
+  "name": "com.em.template",
+  "displayName": "EM.Template",
+  "version": "0.0.1",
+  "author": {
+    "name": "Maxim Epishev",
+    "email": "epishev.m@mail.ru"
+  },
+  "type": "library"
+}
