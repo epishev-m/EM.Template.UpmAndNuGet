@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <PackageId>EM.Template.ModuleFirst</PackageId>
         <Authors>epishev-m</Authors>
-        <Version>0.0.1</Version>
+        <Version>0.0.2</Version>
         <Title>EM.Template.ModuleFirst</Title>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/epishev-m/EM.Template.UpmAndNuGet</RepositoryUrl>

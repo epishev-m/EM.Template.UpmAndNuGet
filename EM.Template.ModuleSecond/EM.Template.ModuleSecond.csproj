@@ -5,7 +5,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>EM.Template.ModuleSecond</RootNamespace>
-        <Version>0.0.1</Version>
+        <Version>0.0.2</Version>
         <PackageId>EM.Template.ModuleSecond</PackageId>
         <Title>EM.Template.ModuleSecond</Title>
         <Authors>epishev-m</Authors>
