@@ -4,6 +4,19 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Template.ModuleFirst", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EM.Template.ModuleSecond", "EM.Template.ModuleSecond\EM.Template.ModuleSecond.csproj", "{ADB95498-2935-4291-85FC-9C1101E95735}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{0F998325-D9AE-4E7C-B9FA-094F886699AD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UPM", "UPM", "{DF80FF17-82FF-4170-A7E8-E7CF64EFF459}"
+	ProjectSection(SolutionItems) = preProject
+		UPM\CHANGELOG.md = UPM\CHANGELOG.md
+		UPM\LICENSE.md = UPM\LICENSE.md
+		UPM\package.json = UPM\package.json
+		UPM\README.md = UPM\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
