@@ -1,0 +1,14 @@
+{
+    "name": "EM.Template.ModuleFirst",
+    "rootNamespace": "EM.Template.ModuleFirst",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

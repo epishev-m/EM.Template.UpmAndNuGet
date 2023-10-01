@@ -2,25 +2,26 @@
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <PackageId>EM.Template.Module</PackageId>
+        <PackageId>EM.Template.ModuleFirst</PackageId>
         <Authors>epishev-m</Authors>
         <Version>0.0.1</Version>
-        <Title>EM.Template.Module</Title>
+        <Title>EM.Template.ModuleFirst</Title>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/epishev-m/EM.Template.UpmAndNuGet</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <Copyright>Copyright (c) 2023 Maxim Epishev (epishev.m@mail.ru)</Copyright>
+        <RootNamespace>EM.Template.Module</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <Compile Include="..\EM.Template\Runtime\Module\Module.cs">
-        <Link>Module\Module.cs</Link>
-      </Compile>
+        <None Include="..\UPM\README.md" Pack="true" PackagePath="\" />
     </ItemGroup>
 
     <ItemGroup>
-        <None Include="..\EM.Template\README.md" Pack="true" PackagePath="\"/>
+      <Compile Include="..\UPM\Runtime\ModuleFirst\ModuleFirst.cs">
+        <Link>ModuleFirst\ModuleFirst.cs</Link>
+      </Compile>
     </ItemGroup>
 
 </Project>

@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.em.template.upmandnuget": {
-      "version": "file:../../EM.Template",
+      "version": "file:../../UPM",
       "depth": 0,
       "source": "local",
       "dependencies": {}

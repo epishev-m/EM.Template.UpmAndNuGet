@@ -1,6 +1,6 @@
 {
-    "name": "EM.Template",
-    "rootNamespace": "",
+    "name": "EM.Template.ModuleSecond",
+    "rootNamespace": "EM.Template.ModuleSecond",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
