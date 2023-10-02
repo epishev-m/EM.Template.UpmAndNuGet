@@ -25,3 +25,5 @@ https://www.nuget.org/packages/EM.Template.ModuleFirst
 ```ps1
 https://www.nuget.org/packages/EM.Template.ModuleSecond
 ```
+## Instructions
+[Instructions](UPM/README.md)  
