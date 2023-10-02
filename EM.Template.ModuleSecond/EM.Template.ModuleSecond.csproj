@@ -2,16 +2,16 @@
 
     <PropertyGroup>
         <TargetFramework>net6.0</TargetFramework>
-        <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
-        <RootNamespace>EM.Template.ModuleSecond</RootNamespace>
-        <Version>0.0.2</Version>
         <PackageId>EM.Template.ModuleSecond</PackageId>
-        <Title>EM.Template.ModuleSecond</Title>
         <Authors>epishev-m</Authors>
-        <Copyright>Copyright (c) 2023 Maxim Epishev (epishev.m@mail.ru)</Copyright>
+        <Version>0.0.2</Version>
+        <Title>EM.Template.ModuleSecond</Title>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <RepositoryUrl>https://github.com/epishev-m/EM.Template.UpmAndNuGet</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
+        <PackageReadmeFile>README.md</PackageReadmeFile>
+        <Copyright>Copyright (c) 2023 Maxim Epishev (epishev.m@mail.ru)</Copyright>
+        <RootNamespace>EM.Template.ModuleSecond</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
